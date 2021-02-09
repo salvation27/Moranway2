@@ -1,0 +1,22 @@
+
+@font-face {
+  font-family: 'CocogooseClassic-Light';                                  
+  src:url('CocogooseClassic-Light.ttf') ;    
+  font-display: swap; 
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CocogooseClassic-Medium';                                  
+  src:url('CocogooseClassic-Medium.ttf') ;    
+  font-display: swap; 
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CocogooseClassic-Bold';                                  
+  src:url('CocogooseClassic-Bold.ttf') ;    
+  font-display: swap; 
+  font-weight: normal;
+  font-style: normal;
+}
